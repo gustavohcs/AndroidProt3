@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82cad472c4cabfcd0a1c44218ee989c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.suhel.restadapter:rest-adapter:5.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\rest-adapter-5.0.aar\dd152a6ca16697f0c50e9fd8e09a1f09\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\62a2c88d4b33d1d631eed6fd02513298\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a9a877d1f0bd6203ed9e2fa50bb1c98a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\36d97858df12f9a83f218ed15c45a369\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b498b434fbac84e1fdb33d0e349c996\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\a238e6855d856831333cae17e0b06bd7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\017bfbca97c600f2155c68727f973937\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\703dd0b5d3550cfb9bdf2d77a8dd1181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\8dd5b7599d2b5133ce70bd59eca8b25c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f380b0bb09c20a5d3eb02fbb492dcc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ff539972dd99c85aa5342b6ea5be2e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ede2fc86cdae793d1d7c3feb7025cecf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546cc11a6325bfea8fe111510531d829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\00c07f8de615e9180fc4609423f55892\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d70b9870154c20157211cb891a6e0923\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ccdd85da365d64d9b2e6e57b89a4ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b3c73fcb68fa4974733e4ce61e57524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\8ff5489704ca96e99e177b4016976301\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\125cbf1a63518dd367300604655fb436\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\1227eac918a68dde76a9b345ca98f7bb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e673136c17a1c371872bcda73ee20fb3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\a4058a9ba73c35702b9b15a55c5f88a8\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5c570fca16423ad79f7c2941c1d26d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f61c2155516f9ac9674a7c6084ecbbcc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b4bd70eda8d639d932e94bad1014ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a90cb4bf7fdf0cca318a4d5930922ecf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:11:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:13:5-97
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:13:22-95
+application
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:17:5-51:19
+MERGED from [com.suhel.restadapter:rest-adapter:5.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\rest-adapter-5.0.aar\dd152a6ca16697f0c50e9fd8e09a1f09\AndroidManifest.xml:11:5-17:43
+MERGED from [com.suhel.restadapter:rest-adapter:5.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\rest-adapter-5.0.aar\dd152a6ca16697f0c50e9fd8e09a1f09\AndroidManifest.xml:11:5-17:43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a9a877d1f0bd6203ed9e2fa50bb1c98a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a9a877d1f0bd6203ed9e2fa50bb1c98a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\a238e6855d856831333cae17e0b06bd7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\a238e6855d856831333cae17e0b06bd7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\017bfbca97c600f2155c68727f973937\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\017bfbca97c600f2155c68727f973937\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\8dd5b7599d2b5133ce70bd59eca8b25c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\8dd5b7599d2b5133ce70bd59eca8b25c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\8ff5489704ca96e99e177b4016976301\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\8ff5489704ca96e99e177b4016976301\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\125cbf1a63518dd367300604655fb436\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\125cbf1a63518dd367300604655fb436\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\1227eac918a68dde76a9b345ca98f7bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\1227eac918a68dde76a9b345ca98f7bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e673136c17a1c371872bcda73ee20fb3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e673136c17a1c371872bcda73ee20fb3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\a4058a9ba73c35702b9b15a55c5f88a8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\a4058a9ba73c35702b9b15a55c5f88a8\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:23:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:33:13-58
+activity#com.example.gustavo.prototip3.MapsActivity
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:37:13-41
+activity#com.example.gustavo.prototip3.TitleActivity
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:41:19-48
+activity#com.example.gustavo.prototip3.MainActivity
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:43:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml:47:27-74
+uses-sdk
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82cad472c4cabfcd0a1c44218ee989c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82cad472c4cabfcd0a1c44218ee989c1\AndroidManifest.xml:20:5-44
+MERGED from [com.suhel.restadapter:rest-adapter:5.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\rest-adapter-5.0.aar\dd152a6ca16697f0c50e9fd8e09a1f09\AndroidManifest.xml:7:5-9:41
+MERGED from [com.suhel.restadapter:rest-adapter:5.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\rest-adapter-5.0.aar\dd152a6ca16697f0c50e9fd8e09a1f09\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\62a2c88d4b33d1d631eed6fd02513298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\62a2c88d4b33d1d631eed6fd02513298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a9a877d1f0bd6203ed9e2fa50bb1c98a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a9a877d1f0bd6203ed9e2fa50bb1c98a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\36d97858df12f9a83f218ed15c45a369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\36d97858df12f9a83f218ed15c45a369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b498b434fbac84e1fdb33d0e349c996\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b498b434fbac84e1fdb33d0e349c996\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\a238e6855d856831333cae17e0b06bd7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\a238e6855d856831333cae17e0b06bd7\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\017bfbca97c600f2155c68727f973937\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\017bfbca97c600f2155c68727f973937\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\703dd0b5d3550cfb9bdf2d77a8dd1181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\703dd0b5d3550cfb9bdf2d77a8dd1181\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\8dd5b7599d2b5133ce70bd59eca8b25c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\8dd5b7599d2b5133ce70bd59eca8b25c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f380b0bb09c20a5d3eb02fbb492dcc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f380b0bb09c20a5d3eb02fbb492dcc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ff539972dd99c85aa5342b6ea5be2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ff539972dd99c85aa5342b6ea5be2e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ede2fc86cdae793d1d7c3feb7025cecf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ede2fc86cdae793d1d7c3feb7025cecf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546cc11a6325bfea8fe111510531d829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546cc11a6325bfea8fe111510531d829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\00c07f8de615e9180fc4609423f55892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\00c07f8de615e9180fc4609423f55892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d70b9870154c20157211cb891a6e0923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d70b9870154c20157211cb891a6e0923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ccdd85da365d64d9b2e6e57b89a4ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ccdd85da365d64d9b2e6e57b89a4ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b3c73fcb68fa4974733e4ce61e57524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b3c73fcb68fa4974733e4ce61e57524\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\8ff5489704ca96e99e177b4016976301\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\8ff5489704ca96e99e177b4016976301\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\125cbf1a63518dd367300604655fb436\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\125cbf1a63518dd367300604655fb436\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\1227eac918a68dde76a9b345ca98f7bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\1227eac918a68dde76a9b345ca98f7bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e673136c17a1c371872bcda73ee20fb3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e673136c17a1c371872bcda73ee20fb3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\a4058a9ba73c35702b9b15a55c5f88a8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\a4058a9ba73c35702b9b15a55c5f88a8\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5c570fca16423ad79f7c2941c1d26d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5c570fca16423ad79f7c2941c1d26d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f61c2155516f9ac9674a7c6084ecbbcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f61c2155516f9ac9674a7c6084ecbbcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b4bd70eda8d639d932e94bad1014ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b4bd70eda8d639d932e94bad1014ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a90cb4bf7fdf0cca318a4d5930922ecf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a90cb4bf7fdf0cca318a4d5930922ecf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustavo\Downloads\tensorflow-r1.7\tensorflow-r1.7\tensorflow\examples\prototip3\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\894c8f3ad1d996213b011ee629586370\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\70df13dd87719da679ccc1a0bd1b14c7\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ac4ef9dc1498cbb025189c0e893d13e5\AndroidManifest.xml:20:20-65
